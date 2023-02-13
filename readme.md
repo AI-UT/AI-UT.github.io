@@ -1,1 +1,3 @@
-Deep Neual Network Fall 2022
+# Artificial Intelligence
+## University of Tehran
+### Spring 2023
