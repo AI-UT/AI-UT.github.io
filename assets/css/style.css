@@ -1,7 +1,9 @@
 body {
     font-family: 'Nunito', 'Source Sans Pro', sans-serif;
     position: relative;
+    padding-top: 60px;
 }
+
 body:after {
     content : "";
     margin-bottom: 100px;
