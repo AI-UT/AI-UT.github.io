@@ -1,121 +1,29 @@
-body {
-    font-family: 'Nunito', 'Source Sans Pro', sans-serif;
-    position: relative;
-    padding-top: 60px;
+
+h3 {
+    margin-top: 0 !important;
 }
 
-body:after {
-    content : "";
-    margin-bottom: 100px;
-    background-image: url("../../assets/image/AI-logo.png");
-    background-size: contain;
-    background-repeat: repeat;
-    background-color: #ffffff;
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity : 0.2;
-    z-index: -1;
+p {
+    margin: 0;
 }
 
-#title {
-    padding-top: 20px;
+.container {
+    margin-top: 10px;
+    margin-left: 15px;
 }
 
-#title h1 {
-    font-size: 36px;
-    text-align: center;
-
+.container p {
+    margin-top: 10px;
 }
 
-#title img {
-    padding-top: 10px;
-    width: 100%;
+.main-container {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 20px;
 }
 
-.section_header {
-    font-size: 34px;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 10px;
-}
-
-.subsection_header {
-    font-size: 28px;
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 5px;
-}
-
-#about p {
-    font-size: 20px;
-    text-align: justify;
-}
-
-.headshot {
-    width: 150px;
-}
-
-.instructor_info {
-    text-align: center;
-}
-
-.instructor_info h2 {
-    padding-top: 10px;
-    font-size: 26px;
-    margin-bottom: 0;
-}
-
-.instructor_info h3 {
-    font-size: 20px;
-    margin-bottom: 0;
-}
-
-#schedule {
-    font-size: 20px;
-}
-
-#course_outline {
-    font-size: 20px;
-}
-
-#grading {
-    font-size: 20px;
-}
-
-#lab {
-    font-size: 20px;
-}
-
-#resources {
-    font-size: 20px;
-}
-
-#honor_code {
-    font-size: 20px;
-}
-
-@media (min-width:769px) {
-    #guest_speaker {
-        margin-top: 20px;
-    }
-}
-
-.instructorphoto img {
-    width: 160px;
-    height: 160px;
-    border-radius: 140px;
-    margin-bottom: 10px;
-}
-
-.instructor {
-    display: inline-block;
-    width: 200px;
-    text-align: center;
-    margin-right: 60px;
-    margin-bottom: 20px;
-    font-size: 17px;
+.profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 10em;
 }
