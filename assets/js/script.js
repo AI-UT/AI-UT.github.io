@@ -108,7 +108,7 @@ const teachingAssistants = [
 function getProfile(person) {
     return `
         <div class="main-container">
-            <img src="https://ai-ut.github.io/assets/image/${person.image}" class="profile-picture">
+            <img src="../assets/image/${person.image}" class="profile-picture">
             <div class="container">
                 <h3>${person.fullName}</h3>
                 <a href="mailto: ${person.emailAddress}">${person.emailAddress}</a>
