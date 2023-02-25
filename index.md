@@ -15,8 +15,8 @@ Throughout the course, students will apply these concepts to real-world problems
 
 | Lecture      | Homework          | Project |
 |:-------------|:------------------|:------|
-| Introduction	<br> slides | [HW 0](#)  <br> (due Feb 21) | [Project 0](#) <br> (due Feb 22) |
-| Agents & Search Intro | [HW 1](#) <br> (due Feb 21)   | [Project 1](#) <br> (due Feb 22)  |
-| Informed and Uninformed Search | [HW 2](#) <br> (due Feb 21) | [Project 2](#) <br> (due Feb 22) |
-| Constraint Satisfaction Problems | [HW 3](#) <br> (due Feb 21) | [Project 3](#) <br> (due Feb 22) |
-
+| Introduction	<br> [slides](https://docs.google.com/presentation/d/1_VGSmtPOb7YLq2_s8wedgru98bepAGeh/edit?usp=share_link) |  | [CA#0](https://drive.google.com/drive/folders/1bV1aFK58sz8ntMhcgDdgcEAe8og9g6Bl?usp=share_link) <br> (due Esfand 10) |
+| Agents <br> [slides](https://docs.google.com/presentation/d/1lgFukpGYWNagmmrzAWrV7XnZyyf7HbXp/edit?usp=share_link) |   |   |
+| Search Intro <br> [slides](https://docs.google.com/presentation/d/1achAWRvt6ciAV8-RsTImPteSs9gLncVf/edit?usp=share_link) |  |  |
+| Uninformed Search <br> [slides](https://docs.google.com/presentation/d/1RHyBIRrNlg6VGAYnMJqd4vL5Khb3LNcT/edit?usp=share_link) |  |  |
+| Informed Search <br> [slides](https://docs.google.com/presentation/d/1yI-MWemGaOFIJF-yK2MjK7ZDNzyvZqeu/edit?usp=share_link) |  |  |
