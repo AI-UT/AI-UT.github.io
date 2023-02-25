@@ -16,7 +16,7 @@ layout: home
 
 ## Resources
 
-- Course page on elearn.
+- Course page on [Elearn](https://elearn5.ut.ac.ir/course/view.php?id=14671).
 - Stuart Russell & Peter Norvig, “Artificial Intelligence: A Modern Approach,” 3rd Edition.
 
 ## Q&A Group
@@ -30,7 +30,7 @@ layout: home
 - You will lose 5% per day if you submit within two days after the deadline.
 - You will lose 10% per day after then.
 - You can upload computer assignments eight days after the deadline.
-- You have a total of 8 grace days for computer assignments.
+- You have a total of **8 grace days** for computer assignments.
 - To use grace days on an assignment, you must inform the TA during delivery.
 
 ### Homework
