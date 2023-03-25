@@ -1,7 +1,9 @@
 ---
 title: Staff
 layout: home
+nav_order: 3
 ---
+
 <script src="../assets/js/script.js" defer></script>
 <link rel="stylesheet" href="../assets/css/style.css">
 

@@ -1,6 +1,7 @@
 ---
 title: Policies
 layout: home
+nav_order: 2
 ---
 ## Table of Contents
 {: .no_toc .text-delta }
