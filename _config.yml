@@ -6,7 +6,5 @@ url: https://just-the-docs.github.io
 favicon_ico: /assets/image/AI-logo.ico
 
 aux_links:
-  - label: "Elearn"
-    url: "https://elearn4.ut.ac.ir/course/view.php?id=14671"
-  - label: "Dark Mode"
-    on-click: "javascript:(function(){document.querySelector('html').classList.toggle('dark')})()"
+  "Elearn":
+    - "https://elearn4.ut.ac.ir/course/view.php?id=14671"

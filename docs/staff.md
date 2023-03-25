@@ -1,7 +1,7 @@
 ---
 title: Staff
 layout: home
-nav_order: 3
+nav_order: 4
 ---
 
 <script src="../assets/js/script.js" defer></script>

@@ -1,7 +1,7 @@
 ---
 title: Syllabus
 layout: home
-nav_order: 1
+nav_order: 2
 ---
 
 | Lecture      | Homework          | Project |
