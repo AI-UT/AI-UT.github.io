@@ -2,4 +2,23 @@ title: AI Course
 description: AI Course Material
 theme: just-the-docs
 
+# Theme settings
+theme_settings:
+  # ...
+  dark_mode: false
+
+
 url: https://just-the-docs.github.io
+
+docs:
+  - title: Syllabus
+    url: /syllabus/
+
+  - title: Policies
+    url: /policies/
+
+  - title: Staff
+    url: /staff/
+
+  - title: Exams
+    url: /exams/

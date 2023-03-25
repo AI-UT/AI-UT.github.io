@@ -1,11 +1,13 @@
 ---
 title: Overview
 layout: home
+nav_order: 1
 ---
 
-<div class="dark-mode-toggle">
-  <i class="fas fa-moon"></i>
-</div>
+<button onclick="toggleDarkMode()" class="btn-dark-mode">
+  <i class="fa fa-moon-o"></i>
+  <span class="label">Dark Mode</span>
+</button>
 
 
 # Overview

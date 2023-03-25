@@ -136,12 +136,3 @@ setStaff(instructors, instructorContainer)
 setStaff(chiefTAs, chiefContainer)
 setStaff(supervisors, supervisorContainer)
 setStaff(teachingAssistants, taContainer)
-
-const toggleSwitch = document.querySelector('.dark-mode-toggle');
-
-toggleSwitch.addEventListener('click', () => {
-  const currentTheme = document.documentElement.getAttribute('data-theme');
-  const switchToTheme = currentTheme === 'dark' ? 'light' : 'dark';
-
-  document.documentElement.setAttribute('data-theme', switchToTheme);
-});
