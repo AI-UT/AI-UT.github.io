@@ -25,3 +25,20 @@ Throughout the course, students will apply these concepts to real-world problems
 | Genetic Algorithms <br> [slides](https://docs.google.com/presentation/d/1mmFHzQprTVmHl-ekPlOPHjUtPyn46QJ-/edit?usp=share_link&ouid=109025853769489023010&rtpof=true&sd=true) | | See CA#2 |
 | Adversarial Search <br> [slides](https://docs.google.com/presentation/d/1Hh-ni08YpgH5SMMsFdSvPVSB4cJGb2Ka/edit?usp=share_link&ouid=109025853769489023010&rtpof=true&sd=true) | | See CA#2 |
 | Stochastic Games <br> [slides](https://docs.google.com/presentation/d/1eVWNyu64zQJeAWL8HXXVxZMZ2YIkWrIQ/edit?usp=share_link&ouid=109025853769489023010&rtpof=true&sd=true) | | [CA#2](https://drive.google.com/drive/folders/16hQBasOubYBgfpHRqQ_ABjZuazohp3JX?usp=share_link) <br> (due Farvardin 25) |
+
+
+<button class="btn js-toggle-dark-mode">Dark Mode</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Dark Mode';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Light Mode';
+  }
+});
+</script>
