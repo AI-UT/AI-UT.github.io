@@ -6,7 +6,7 @@ url: https://just-the-docs.github.io
 favicon_ico: /assets/image/AI-logo.ico
 
 aux_links:
-  - label: "Elearn":
+  - label: "Elearn"
     url: "https://elearn4.ut.ac.ir/course/view.php?id=14671"
   - icon: "fas fa-moon"
     label: Dark Mode
