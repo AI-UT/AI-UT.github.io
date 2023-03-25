@@ -3,6 +3,11 @@ title: Overview
 layout: home
 ---
 
+<div class="dark-mode-toggle">
+  <i class="fas fa-moon"></i>
+</div>
+
+
 # Overview
 
 This course provides an in-depth exploration of artificial intelligence, covering a range of topics from search algorithms to deep learning. 
