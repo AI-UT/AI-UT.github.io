@@ -1,5 +1,14 @@
-title: AI Course
+title: AI Course | Artificial Intelligence Course at University of Tehran
 description: AI Course Material
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
+favicon_ico: /assets/image/AI-logo.ico
+
+aux_links:
+  - label: "Elearn":
+    url: "https://elearn4.ut.ac.ir/course/view.php?id=14671"
+  - icon: "fas fa-moon"
+    label: Dark Mode
+    name: Dark Mode
+    url: javascript:(function(){document.querySelector('html').classList.toggle('dark')})()
