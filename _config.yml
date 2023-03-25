@@ -8,3 +8,8 @@ favicon_ico: /assets/image/AI-logo.ico
 aux_links:
   "Elearn":
     - "https://elearn4.ut.ac.ir/course/view.php?id=14671"
+
+darkmode:
+  enable_dark_mode: false
+  show_dark_mode_toggle_in_header: true 
+  show_dark_mode_toggle_in_bottom: true
