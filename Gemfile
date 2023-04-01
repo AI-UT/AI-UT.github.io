@@ -5,6 +5,3 @@ gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.4.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
-
-gem 'jekyll-seo-tag', "~> 2.6.1"
-gem 'jekyll-theme-hamilton'
